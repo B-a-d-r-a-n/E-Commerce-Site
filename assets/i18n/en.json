@@ -1,0 +1,29 @@
+{
+  "navbar": {
+    "home": "Home",
+    "categories": "Categories",
+    "brands": "Brands",
+    "products": "Products",
+    "wishlist": "Wishlist",
+    "logout": "Logout",
+    "signin": "Sign in",
+    "signup": "Sign up",
+    "lang": "ع"
+  },
+  "home": {
+    "homeCat": "Shop Popular Categories",
+    "homeCart": "Add to Cart",
+    "homeWish": "Add to Wishlist",
+    "searchBtn":"Search through products"
+  },
+  "footer": {
+    "appTitle": "Get the FreshCart app",
+    "appLink": "We will send you a link, open it on your phone to download the app",
+    "appLinkBtn": "Share App Link",
+    "footerApp": "Get deliveries with FreshCart",
+    "footerPay": "Payment Partners"
+  },
+  "":{
+
+  }
+}
